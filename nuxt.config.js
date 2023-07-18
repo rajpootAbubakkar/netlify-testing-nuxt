@@ -35,6 +35,7 @@ export default {
   i18n: {
     locales: ["en", "fr", "es"],
     defaultLocale: "en",
+    strategy: "prefix",
     vueI18n: {
       fallbackLocale: "en",
       messages: {
