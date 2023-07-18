@@ -10,7 +10,8 @@
 
             <div class="p-0">
               <div class="card">
-                <div class="card-body p-0">Hello World</div>
+                <div class="card-body p-0">Hello World,  Welcome message: 
+    {{ $t("welcome") }} </div>
               </div>
             </div>
           </div>
