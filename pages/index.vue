@@ -1,6 +1,6 @@
 <template>
   <div>
-    Message:
+    Message 1:
     {{ $t("welcome") }}
   </div>
 </template>
